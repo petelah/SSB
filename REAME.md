@@ -17,11 +17,11 @@ So some ideas page wise just spitballing
 
 
 Home page - Log in / Seach for equipment / Sign up
-    Sign up page - fields to be filled out
-    Profile page upload photos change information, dashboard/summary 
+    Sign up page - fields to be filled out - col
+    Profile page upload photos change information, dashboard/summary - col 
     upload equipment button, search field at top.
-    Seach results/filters/fields
-    Item page/profile thing
+    Seach results/filters/fields - pete
+    Item page/profile thing - pete
     checkout page
     
  
