@@ -11,7 +11,6 @@ Home page
 
 
 
-
 *Some ideas people can search for equipment from the start page, option to login in once they find stuff.
 or can log in from the start.
 
@@ -19,7 +18,7 @@ Base Idea:
 
 Someone can upload gym equipment for hire
 Someone can hire gym equipment that has been uploaded for a period of time.
-    location based as well as equipment type
+
 
 Other options.
 
