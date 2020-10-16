@@ -1,0 +1,24 @@
+Oi....
+
+So some ideas page wise just spitballing
+
+Home page
+    Person With equipment profile page
+        current hires/past hires
+    Person Hiring equipment profile page
+        current equipment
+        upload equipment
+
+
+
+*Some ideas people can search for equipment from the start page, option to login in once they find stuff.
+or can log in from the start.
+
+Base Idea:
+
+Someone can upload gym equipment for hire
+Someone can hire gym equipment that has been uploaded for a period of time.
+
+
+Other options.
+
