@@ -41,15 +41,26 @@ be better as a pop up window
 ![Profile Page with Dashboard](./wireframes/Sign_up_Page.png)
 
 Page show user profile as well as edit option
-This page shall also have a dashboard showing eequipment currently on hire/to be hired
+This page shall also have a dashboard showing equipment currently on hire/to be hired
 (hired equipment shall be grayed out and duration remaining for hire shown, equipment for hire
 shall be clear)
 
 Second dashboard shall show equipment on hire with monthly cost as well as duration remaining
 Hires shall continue until equipment is returned. Incentives for longer hire durations can be included
 
+### Product Page - User reviews, owner information, other products from this user, details about the product
 
+![Product Page](./wireframes/Product Page.png)
 
+Page shows equipment to be hired with a hire now button. Also shows other equipment from that user and has an equipment 
+star rating information on the equipment as well as rates for the equipment. Blurb on the equipment as well as photo's
+
+### Search Page - After the user searches for equipment the following information is shown
+
+![Search Page](./wireframes/Search Page.png)
+
+Users can see the equipment with photos as well as rates. From here they can get more info regarding the equipment, 
+add to cart and receive notifications (equipment availability, hires running out etc etc )
 
 
 upload equipment button, search field at top.
