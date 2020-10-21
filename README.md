@@ -50,14 +50,14 @@ Hires shall continue until equipment is returned. Incentives for longer hire dur
 
 ### Product Page - User reviews, owner information, other products from this user, details about the product
 
-![Product Page](./wireframes/Product Page.png)
+![Product Page](wireframes/Product_Page.png)
 
 Page shows equipment to be hired with a hire now button. Also shows other equipment from that user and has an equipment 
 star rating information on the equipment as well as rates for the equipment. Blurb on the equipment as well as photo's
 
 ### Search Page - After the user searches for equipment the following information is shown
 
-![Search Page](./wireframes/Search Page.png)
+![Search Page](wireframes/Search_Page.png)
 
 Users can see the equipment with photos as well as rates. From here they can get more info regarding the equipment, 
 add to cart and receive notifications (equipment availability, hires running out etc etc )
