@@ -63,6 +63,41 @@ Users can see the equipment with photos as well as rates. From here they can get
 add to cart and receive notifications (equipment availability, hires running out etc etc )
 
 
+## Installation
+
+### Dependancies
+
+Clone the repository from this github.
+
+Create a Python3.8 virtual environment and activiate
+
+In your console run the following:
+
+```bash
+python3.8 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+python3.8 main.py
+```
+
+## CI/CD
+
+### Dev branch
+
+The CI/CD for this project shall involved running automated testing using unittest, flake8 and mypy,
+this shall be updated and altered as other tests or modules become more relevant. The CI pipeline shall push to 
+Github. From there the application shall be deployed to an EC2 instance with an elastic IP. The application shall be 
+tested on the EC2 instance for bugs manually before being rolled out to produciton
+
+### Main/Master Branch
+
+This shall be as above on a seperate EC2 instance that is conceptually ready as a server ready to run the app for public consumption
+
+
+
+
+
 upload equipment button, search field at top.
 Search results/filters/fields
 Individual item summary page
